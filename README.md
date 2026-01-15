@@ -2,6 +2,8 @@
 
 ### a web student
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErwannJardillet)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I'm currently working on **improve my web development skills**
 
