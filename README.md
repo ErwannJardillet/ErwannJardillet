@@ -2,7 +2,6 @@
 
 ### a web student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErwannJardillet&label=Profile views&color=0e75b6&style=flat" alt="ErwannJardillet" /> </p>
 
 - 🔭 I'm currently working on **improve my web development skills**
 
